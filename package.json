@@ -1,9 +1,10 @@
 {
-  "name": "otterscan",
+  "name": "@mekonglabs/otterscan",
   "version": "2.7.0",
   "private": true,
   "license": "MIT",
   "type": "module",
+  "repository": "https://github.com/Mekong-labs/otterscan.git",
   "dependencies": {
     "@fontsource/fira-code": "^5.0.18",
     "@fontsource/roboto": "^5.0.13",
